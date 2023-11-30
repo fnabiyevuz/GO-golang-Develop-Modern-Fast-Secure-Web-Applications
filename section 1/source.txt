@@ -1,0 +1,3 @@
+https://go.dev/dl/
+https://go.dev/doc/install
+https://code.visualstudio.com/Download
